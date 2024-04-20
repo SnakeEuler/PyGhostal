@@ -30,4 +30,4 @@ skills and interest in emerging language technologies."
 
 Follow my development journey on the project blog:
 
-* [Entry 1: Scraping the Cosmic Web of Transcripts](link to blog post)
+* [Entry 1: Scraping the Cosmic Web of Transcripts](https://github.com/SnakeEuler/PyGhostal/blob/master/dev_log/01_scraping_the_cosmic_web.md)
