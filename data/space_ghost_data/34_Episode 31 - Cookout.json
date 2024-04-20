@@ -1,0 +1,1373 @@
+{
+  "title": "Episode 31 - \"Cookout\"",
+  "url": "?ep=31&fmt=0",
+  "guest_stars": "Emeril Lagasse, Nathalie Dupree, Martin Yan",
+  "synopsis": null,
+  "transcript": [
+    {
+      "speaker": "Choose a format",
+      "dialogue": "Regular Table Indented Condensed"
+    },
+    {
+      "speaker": "",
+      "dialogue": "WAITING"
+    },
+    {
+      "speaker": "Moltar",
+      "dialogue": "(slurps soda) Beef-a-roni."
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "(slurps coffee) Beef-a-ghetti."
+    },
+    {
+      "speaker": "Moltar",
+      "dialogue": "Beef-a-roni!"
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "Beef-a-ghetti."
+    },
+    {
+      "speaker": "Moltar",
+      "dialogue": "Beef-a-roni!"
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "Beef-a-ghetti!"
+    },
+    {
+      "speaker": "Moltar",
+      "dialogue": "Beef-a-roni!"
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "Beef-a-ghetti!"
+    },
+    {
+      "speaker": "Moltar",
+      "dialogue": "Beef-a-roni!"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Fellas, fellas! (laughing) Come on, now! They're both so good!"
+    },
+    {
+      "speaker": "Moltar",
+      "dialogue": "Shut up!"
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "Shut up!"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Well!"
+    },
+    {
+      "speaker": "Announcer",
+      "dialogue": "Good evening and bon appetit! It's Space Ghost Coast to Coast! Tonight, a no-holds-barred cook-off between television chefs Emeril Lagasse, Nathalie Dupree and Martin Yan. Plus, Zorak and the Original Way Outs. And now, prepare to clean your palate with a fresh blast of minty wintergreen! Spaaaaace Ghooooost!"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "(invisos in) Buon giorno, hungry citizens! Welcome to our show du jour! Tonight we've got three of TV land's favorite chefs in the kitchen with Space Ghost for a little cooking competition. Here to help us judge the contest, our very own Council of Doom. Lokar."
+    },
+    {
+      "speaker": "Lokar",
+      "dialogue": "Oh, ho, ho, hi."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Metallus."
+    },
+    {
+      "speaker": "Metallus",
+      "dialogue": "(drones)"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Black Widow."
+    },
+    {
+      "speaker": "Black Widow",
+      "dialogue": "Whooooooooo!!!"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Tansut."
+    },
+    {
+      "speaker": "Tansut",
+      "dialogue": "Just me."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "And Brak."
+    },
+    {
+      "speaker": "Brak",
+      "dialogue": "I got... I got pink eye."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "(sup sup sup) Ready to eat, Zorak?"
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "Yeah, listen, I want all the bones when we're done."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Not a problem."
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "Make sure he wipes 'em off."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Okay."
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "And, um, uh, get 'em in a bag."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Okay."
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "A bone bag. Gimme a bone bag."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Enough! You can have all the bones when we're done!"
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "Thank you."
+    },
+    {
+      "speaker": "Brak",
+      "dialogue": "Somebody! I wanna eat!"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Grab some crackers, that's what the machine's for."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "(invisos to desk)"
+    },
+    {
+      "speaker": "Moltar",
+      "dialogue": "Beef-a-roni."
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "Beef-a-ghetti!"
+    },
+    {
+      "speaker": "Moltar",
+      "dialogue": "Beef-a-roni!"
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "Beef-a-ghetti!"
+    },
+    {
+      "speaker": "Moltar",
+      "dialogue": "Beef-a-roni!"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Beef-a-ghetti! Oh, shut up the both of you!"
+    },
+    {
+      "speaker": "Brak",
+      "dialogue": "Shut up!"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Thanks, Brak."
+    },
+    {
+      "speaker": "Brak",
+      "dialogue": "No problem."
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "Hey hey!"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Ah, here's our first chef contestant. Greetings, citizen! How are you today?"
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "I'm doin' unbelievable."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "I believe you! Identify yourself to the universe!"
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "I am Emeril Lagasse, uh, chef and restaurateur of New Orleans."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Are you getting enough oxygen, Chief Emeril?"
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "Uh, I'm uh, I'm getting plenty right now, it's feeling real good."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Chef, chef, chef, chef, chef, chef. (laughs) Remember him, he was the, the Stooge nobody liked."
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "(long cough)"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "(to Emeril) Have you ever been in outer space before?"
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "Absolutely not! I'm kind of excited about this."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Well, you should be. So, how did you become a (begin echo effect) Chef Of The Future? (end echo effect)"
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "I started cooking and liked it, and did more of it and liked it, and one day I got up and then I really loved it."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "No way! It can't be that easy!"
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "You better believe it."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Well, I don't believe it."
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "'kay."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "(pause) Say, Emeril, people are always saying things taste like chicken. You know, frogs, woolly spider monkeys, Herculoids. Is that true?"
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "Well, you know, um, people drive me crazy when they say like that, it's like, anything that's mysterious, they say, \"Well, it tastes like chicken.\" It doesn't taste like chicken, it, it tastes like frog, or, it, it tastes like rabbit, that's what it is, it's not chicken. Chicken's chicken."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Huh. I bet Zorak would taste like chicken. Have you ever cooked a giant evil praying mantis?"
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "Oh, listen, we, we do food from love, food of love. So, uh, evil is not allowed in the kitchen."
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "Have you ever cooked a human? Out of love."
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "Um, I haven't tried any humans yet."
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "Say, do you know Chef Boy-ar-dee?"
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "Uh, we've never met! We never met. I'd like to meet him someday, though."
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "Beef-a-roni or Beef-a-ghetti?"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Zorak!"
+    },
+    {
+      "speaker": "Moltar",
+      "dialogue": "Beef-a-roni!"
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "Beef-a-ghetti!"
+    },
+    {
+      "speaker": "Moltar",
+      "dialogue": "Beef-a-roni!"
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "Beef-a-ghetti!"
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "Hey, eat a chicken basket, though."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "(clears his throat) What do you like to cook the most, Emeril?"
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "Well, I, I just like cooking food."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Well, I just like eating food. What do you like to eat the most?"
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "I love beef."
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "... a-ghetti."
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "I love pork too. I think actually pork rules. Actually, in my new book, I think the slogan is, \"Pork fat rules.\""
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "\"Pork fat rules\"?"
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "Yeah, the flavor is, you just can't beat it."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Oh, I'm with ya."
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "What, what kind of food do you like?"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Emeril, I like food. You know, food food fit in the stomach food."
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "You like dense food?"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Indeed I do! The denser the better."
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "Muffins?"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Thick, hearty and dense. That's for me!"
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "Oooh, we'll have to cook something dense for you."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Uh huh! Would you?"
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "Some dense cuisine."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Mmmmmm..."
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "Gooey and dense."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Dense, right?"
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "Yeah!"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "I must warn you, I can eat a manly pile!"
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "That's okay, we got plenty of food!"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Then feed me, Emeril. Make me a manly pile!"
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "I'm lookin' forward to cookin' for you."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "And I'm looking forward to... eating... from you."
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "Space Ghost? (his image begins to fade from monitor)"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Whatever."
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "Hello? (his image dissolves into static)"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Anyway, while Emeril goes to the kitchen--"
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "Hey! Hey! I, I wa-- uh... I, I want the bones when we're done."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Okey dokey, not a problem."
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "I'm thinking about making a soup. (Emeril's image fades back in) Don't, don't forget about the bones!"
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "Space Ghost..."
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "That's just what I need for my... bone soup."
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "... I told you it was just a matter of time before I had the opportunity to cook for you."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Oh, uh, Emeril, what are you going to cook with today? Besides your hands, I mean."
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "Duck. But not only is it, like, just duck, Space Ghost, it's duck confit, which means it's been like smothered in fat."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Mmmmmm, I'm in carbohydrate heaven! And, what are you gonna make with this confit?"
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "Duck tacos with kicked-up salsa, and a lot of bam --"
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "Bam."
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "-- just for you. This is the kicked-up salsa right here. (Space Ghost scoots closer) Black beans, spicy corn, lots of peppers to just put your mouth on fire, and some greens."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Greens? Eeaaah! I say thee, nay! Oh well, I can scrape 'em off anyway... Uh, what are you putting on the tortillas?"
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "This is the essence of Emeril right there. And just, these are little baby bams, see? (high voice) Bam bam bam..."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Bam."
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "Bam!"
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "Little baby bams. Now, I gotta like make this incredible... mixture, this duck mixture."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Did you kill that duck yourself?"
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "Uh, we kinda don't ask those questions, Space Ghost. On, on Earth here, you know, we got to be careful about those things."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "(low voice) Ooooh, yeah, the duck people."
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "In order to try to get you healthy, Space Ghost, at least for five seconds, some greens."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Ewww, no. Yuk."
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "And this is a little cilantro dressing."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Hey! Is that like ranch?"
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "This is, uh, it's, it's a little bit different than ranch. But, uh, we can pretend it's ranch dressing if you want, Space Ghost."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Okay, let's pretend it's ranch dressing!"
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "Now watch this, we're gonna, we're gonna start by putting this dish together for you. Kinda funky shapes. And, uh, we're gonna do some kicked-up salsa..."
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "Kick it! Kick it in the head!"
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "Then we're gonna take some of these greens--"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "On the side! Oh, uh, go ahead, put 'em in."
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "Then we're gonna do another little tortilla like that. Then... your favorite, without the bones, of course, duck meat."
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "Of course."
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "Are you with me so far, Space Ghost?"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "All the way!"
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "Then we're gonna put another tortilla, and then we're gonna take the kicked-up salsa again..."
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "Kick it where it hurts!"
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "Then we'll, like, put another layer like this."
+    },
+    {
+      "speaker": "Moltar",
+      "dialogue": "(watching from control room) Ohhhhh! It's beautiful!"
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "Then we'll kinda take a little bit more of that duck meat, you see?"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "It's so... hefty!"
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "It's gettin' tall."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Does it ever end? (harp music in background)"
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "I don't know how hungry you are, that's why I'm gonna keep building it until you, like, surrender."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Whoa. I surrender!"
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "We gotta have to give it a little BAM! --"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "(aims his power bands)"
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "-- just like that, don't get frightened."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Sorry, dynamic reflexes."
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "And that's my dish for you, Space Ghost. It's the, uh, \"Kicked-Up Duck Tacos\"."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Now, you would smother that in cheese sauce, right?"
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "That's entirely up to you, Space Ghost."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Gravy?"
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "I wouldn't recommend gravy on this, on this particular dish for you."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "'Nilla puddin'?"
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "No pudding."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "No ketchup?"
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "No ketchup."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Tartar sauce."
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "You gotta get out of that habit, Space Ghost. I'm trying to kick you up a notch."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Consider me kicked!"
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "Hey, the bones."
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "Zorak, we'll put the bones, when we're done, in the bag for you, too. Just be patient."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "So, Emeril, who do you think will win here tonight?"
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "(laughs) Martin has big cleavers, Space Ghost. I just have essence."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "I see! Well, let's see your entry."
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "Mmmmmmm! Ahhhhhh!"
+    },
+    {
+      "speaker": "Moltar",
+      "dialogue": "Mmmmmmm! Ahhhhhh!"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Mmmmmmm! Ahhhhhh!"
+    },
+    {
+      "speaker": "Moltar",
+      "dialogue": "(still watching from control room) Ahhhhhh! I'm in love!"
+    },
+    {
+      "speaker": "Emeril Lagasse",
+      "dialogue": "It's time to dine!"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "We'll be right back!"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "(not realizing he is on camera) [Belllllllllllllcccccccccchhhhhhhhhhh!!!!!] Oh man... I undid my belt three notches, and I still feel like ten pounds of potatoes in a three pound sack."
+    },
+    {
+      "speaker": "Moltar",
+      "dialogue": "Hey, wide load, we're back."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Oh, hello there! Welcome, citizen chef! Please identify yourself to the cosmos!"
+    },
+    {
+      "speaker": "Nathalie Dupree",
+      "dialogue": "I'm Nathalie Dupree. I'm the cook."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "You're the cook?"
+    },
+    {
+      "speaker": "Nathalie Dupree",
+      "dialogue": "Well, yes."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Oh, I'll be the judge of that."
+    },
+    {
+      "speaker": "Nathalie Dupree",
+      "dialogue": "Okay."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Make me a chicken chimichanga!"
+    },
+    {
+      "speaker": "Nathalie Dupree",
+      "dialogue": "(pause) Why?"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Well, because this is a cooking competition. And, because I want a chicken chimi!"
+    },
+    {
+      "speaker": "Nathalie Dupree",
+      "dialogue": "Oh..."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "And because this is my show, and because I said so."
+    },
+    {
+      "speaker": "Nathalie Dupree",
+      "dialogue": "I see..."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Then start cooking!"
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "Uh, I have a question."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Zorak has a question."
+    },
+    {
+      "speaker": "Nathalie Dupree",
+      "dialogue": "Yeah? What does he want to know?"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Make it quick."
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "Do you have any bones?"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "He wants your bones."
+    },
+    {
+      "speaker": "Nathalie Dupree",
+      "dialogue": "Hmmm... that's really distressing."
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "I need your bones... for my soup... you see, I'm gonna put the bones... in... the soup. And it's... the bones go... in the soup."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "(blasts Zorak)"
+    },
+    {
+      "speaker": "Nathalie Dupree",
+      "dialogue": "That's not very loving."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Life's not very loving."
+    },
+    {
+      "speaker": "Nathalie Dupree",
+      "dialogue": "Hmmm..."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "So, what's the deal, you gonna cook for me, or what?"
+    },
+    {
+      "speaker": "Nathalie Dupree",
+      "dialogue": "No. No."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "So, you're not going to cook for me."
+    },
+    {
+      "speaker": "Nathalie Dupree",
+      "dialogue": "Yeah."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "\"Yeah\" you will, or \"yeah\" you won't?"
+    },
+    {
+      "speaker": "Nathalie Dupree",
+      "dialogue": "No. (laughs)"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Have it your way, then. Cook, or be cooked! (blasts her off the monitor) Well, you know what they say, if you can't stand the guest, blast her out of the kitchen!"
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "Liar! Nobody says that!"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Moltar! Gimme a chef that'll play ball!"
+    },
+    {
+      "speaker": "Moltar",
+      "dialogue": "(throws a lever, sending Martin to the studio monitor)"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Greetings, citizen chef! Identify yourself, please!"
+    },
+    {
+      "speaker": "Martin Yan",
+      "dialogue": "I am Martin Yan, of the \"Yan Can Cook\" show."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Can Yan cook?"
+    },
+    {
+      "speaker": "Martin Yan",
+      "dialogue": "I'll show you later."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "That's what I like to hear! So, citizen Yan..."
+    },
+    {
+      "speaker": "Moltar",
+      "dialogue": "\"Are you getting enough oxygen?\""
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "\"Are you getting enough oxygen?\""
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "Man, am I getting sick of that!"
+    },
+    {
+      "speaker": "Martin Yan",
+      "dialogue": "I have plenty of oxygen, but if I want extra oxygen, I drink soy sauce, doing fermentation, so I got more oxygen, that's how I derive most of my additional oxygen."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "(laughs) Coo-coo-nutty! So, do you have any superpowers besides soy sauce drinking?"
+    },
+    {
+      "speaker": "Martin Yan",
+      "dialogue": "I work out in the kitchen, and I'm powerful enough. But for additional power, (clangs meat cleaver) this is additional power."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "(aims power bands) What are you doing with that?"
+    },
+    {
+      "speaker": "Martin Yan",
+      "dialogue": "(pause) If I don't get nervous, you shouldn't get nervous."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Hmmm... Good point. (stops aiming)"
+    },
+    {
+      "speaker": "Martin Yan",
+      "dialogue": "You know, I would like to put you in an oven, 375 degree, and roast it."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Sorry Martin! Yan Can't Cook Space Ghost! It's rude!"
+    },
+    {
+      "speaker": "Martin Yan",
+      "dialogue": "I would put butter on you, and you'd taste better. You taste good, you'd taste even better."
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "Cook him! Cook him! Cook him now!"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Shut up, Zorak!"
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "You shut up!"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Make me!"
+    },
+    {
+      "speaker": "Martin Yan",
+      "dialogue": "When you talk too much, I put an apple in your mouth, and you'll shut up."
+    },
+    {
+      "speaker": "Zorak & Moltar",
+      "dialogue": "(laugh hysterically)"
+    },
+    {
+      "speaker": "Martin Yan",
+      "dialogue": "... but of course, you're such a nice guy, I would never do that to you."
+    },
+    {
+      "speaker": "Zorak & Moltar",
+      "dialogue": "Boo! Boo! Boo!"
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "Suck-up!"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Whew! (laughs) I gotta tell you, Marty, for a minute there, I thought you were really gonna cook me! Put those away. You're pretty crazy, you know that? (laughs)"
+    },
+    {
+      "speaker": "Martin Yan",
+      "dialogue": "I'm crazy? That's what my mother told me! I believe it!"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "As well you should, my boy, as well you should. So, who do you think is going to win our little cooking contest, hmm?"
+    },
+    {
+      "speaker": "Martin Yan",
+      "dialogue": "You know, Emeril is a good friend of mine, and he's a master chef, and I'm quite sure he'll win."
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "Ten bucks on Emeril! (laughs)"
+    },
+    {
+      "speaker": "Martin Yan",
+      "dialogue": "He also is better looking than me, so I better let him win."
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "A hundred bucks on Urkel! Er, Emeril!"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Well, then, are you ready to cook, and lose?"
+    },
+    {
+      "speaker": "Martin Yan",
+      "dialogue": "Let's cook, and maybe feed this ghost!"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "(pause) Alrighty. We'll be back with more delicious food after these important messages. (giant eyeball appears on monitor) Aaaaa!"
+    },
+    {
+      "speaker": "Martin Yan",
+      "dialogue": "(to someone offscreen) I'm sorry, it's this cheap watch. (takes his watch off)"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Say, Martin's back! And, so's my appetite! What are ya making there, Martin?"
+    },
+    {
+      "speaker": "Martin Yan",
+      "dialogue": "I'm gonna show you how to do a chicken, okay?"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Mmmmmm, chicken tastes like chicken!"
+    },
+    {
+      "speaker": "Martin Yan",
+      "dialogue": "First, you see saw your knife, and you roll your bell pepper look like that. (cores & cuts the bell pepper in one motion) Wow, look at that, the whole thing, done! Ah, I am impressed! And then you cut it up (chops rapidly with cleaver) like that. (more chopping) I'm very impatient, that's how come I go so fast."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Wwwwwhy don't you watch what you're cutting?"
+    },
+    {
+      "speaker": "Martin Yan",
+      "dialogue": "When I look, I get nervous, that's the reason why."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Oh, I get it. I'm like that with girls."
+    },
+    {
+      "speaker": "Martin Yan",
+      "dialogue": "You know, this chicken (wiggles the legs around) is somewhat nervous, 'cause it's never, never get such close encounter with a Space Ghost."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Maybe it's nervous because it's naked."
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "Ewwwwwwwwww, yeh!"
+    },
+    {
+      "speaker": "Martin Yan",
+      "dialogue": "So when the chicken is nervous, you know what? You gotta relax your chicken."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Relax the chicken?!"
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "Relax the chicken?!"
+    },
+    {
+      "speaker": "Moltar",
+      "dialogue": "Relax the chicken?!"
+    },
+    {
+      "speaker": "Martin Yan",
+      "dialogue": "If the chicken is not relaxed, like it's nervous, you can't cut through this, see? So, how do you relax a chicken? You hold it with free hand. Now, Moltar, pay attention. And Zorak, pay --"
+    },
+    {
+      "speaker": "Moltar",
+      "dialogue": "(throws lever in control room, monitor changes to a \"CHiPs\" episode, where a boat trailer crashes into a parked car) Whoa, speedboat? Look at it backing up."
+    },
+    {
+      "speaker": "Martin Yan",
+      "dialogue": "You hold onto it like that, you go up and down, up and down, never horizontal movement..."
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "Hey, get that camera off me!"
+    },
+    {
+      "speaker": "Martin Yan",
+      "dialogue": "Up and down, up and down, up and down, up and down. After five up and down you go circular motion, like that, ah, the chicken is getting nervous. No more nervous, relaxing. You do about five complete cycles, this is great exercise. One two three four five, one two three four five... (continues exercising the chicken)"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Amazing!"
+    },
+    {
+      "speaker": "Martin Yan",
+      "dialogue": "This is my daily exercise in the kitchen."
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "Man, who needs PBS with educational programming like this?"
+    },
+    {
+      "speaker": "Martin Yan",
+      "dialogue": "Then, when it's nice and ready, look at that, the chicken's very relaxed. The chicken is so relaxed --"
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "The chicken isn't relaxed; the chicken's dead!"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Is not, it was just moving, I saw it!"
+    },
+    {
+      "speaker": "Martin Yan",
+      "dialogue": "This chicken's alive!"
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "Okay, the chicken's alive. So, Yan can cook. And Yan can go insane. Got it. (whistles)"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Zorak! No insulting the guests!"
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "Oh, but blasting them is peachy?"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Darn tootin', nephew breath."
+    },
+    {
+      "speaker": "Martin Yan",
+      "dialogue": "(slaps his cleaver) Space Ghost, Moltar and Zorak, pay attention, heh! Three (slap!), two (slap!), one, one cut, another cut, turn around the side, one cut along the back, hold like this, and you disjoint this, and the whole chicken breast comes out, and the thigh, and the leg, comes out, the tenderon, on this side, comes out, turn it to the other side, and then, disjoint this, the whole chicken breast comes out, the thigh, and the leg, comes out, the last piece of the tenderon, comes out... Space Ghost, are you impressed?"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "You killed the chicken."
+    },
+    {
+      "speaker": "Martin Yan",
+      "dialogue": "No I didn't. I just dissected, the word \"kill\" is not appropriate. I just cut it up because I know that you are hungry."
+    },
+    {
+      "speaker": "Martin Yan",
+      "dialogue": "Then, I put the chicken, which you can marinade the chicken, I put it right over here..."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "And then what?! You kill some more, o grim reaper!?"
+    },
+    {
+      "speaker": "Martin Yan",
+      "dialogue": "A very little oil, and you stir and you stir, look at this. When the chicken's almost ready, you put the rest of the stuff in, like this. Mmmmm, you know what, it's gonna look very, very good."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "That's barely a recipe!"
+    },
+    {
+      "speaker": "Martin Yan",
+      "dialogue": "Mmmmm! In such a short time, I have showed you how to do two wonderful, delicious, healthy, economical dish that you can serve over rice, or spaghetti..."
+    },
+    {
+      "speaker": "Moltar",
+      "dialogue": "Beef-a-roni, perhaps?"
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "No, beef-a-ghetti!"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Or maybe burritos?"
+    },
+    {
+      "speaker": "Martin Yan",
+      "dialogue": "Or, you can wrap this up with a burrito..."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Moltar, a close-up of the grub! (camera shows close-up of the food) Say! That looks good enough to eat! Okay! Thanks for coming, citizen Yan! Goodnight, everybody!"
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "Hey, hey, hey! The bones!"
+    },
+    {
+      "speaker": "Martin Yan",
+      "dialogue": "Okay. Zorak, ah, have it!"
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "Yeah, like I'm s'posed to catch that!"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Goodnight, everybody!"
+    },
+    {
+      "speaker": "Moltar",
+      "dialogue": "Hey! Wait, wai- wai- wa- hol- ho- ho- ho- ... You never told us who won."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "It's a tie. Goodnight, everybody!"
+    },
+    {
+      "speaker": "Moltar",
+      "dialogue": "Wait, wait, wha- wha- what about the Council of Doom?"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Council of Doom? Where?"
+    },
+    {
+      "speaker": "Lokar",
+      "dialogue": "Over here, you git!"
+    },
+    {
+      "speaker": "Black Widow",
+      "dialogue": "(screams, and gets blasted by Space Ghost)"
+    },
+    {
+      "speaker": "Tansut",
+      "dialogue": "She didn't do anything to you! And now, look at what you did!"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Sorry. Just went off."
+    },
+    {
+      "speaker": "Tansut",
+      "dialogue": "I don't think I like you anymore."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Who invited you guys? Moltar!"
+    },
+    {
+      "speaker": "Lokar",
+      "dialogue": "You invited us to judge your r-r-ridiculous culinary display."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "I did?"
+    },
+    {
+      "speaker": "Lokar",
+      "dialogue": "Yes you did."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "(nervous laugh) Well, thank you for coming."
+    },
+    {
+      "speaker": "Lokar",
+      "dialogue": "D\u00e9j\u00e0 vu, you pusillanimous pile of pulchritude."
+    },
+    {
+      "speaker": "Tansut",
+      "dialogue": "Hey! That's Latin for \"beautiful\". You, you, you just called him beautiful! (laughs)"
+    },
+    {
+      "speaker": "Lokar",
+      "dialogue": "Oh."
+    },
+    {
+      "speaker": "Brak",
+      "dialogue": "I think he's pretty."
+    },
+    {
+      "speaker": "Tansut",
+      "dialogue": "Why don't you kiss him, already? (laughs)"
+    },
+    {
+      "speaker": "Brak",
+      "dialogue": "Okay."
+    },
+    {
+      "speaker": "Lokar",
+      "dialogue": "Well, occasionally these multisyllabic words confound even me."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Hey Lokar, confound this! (aims power bands at Lokar)"
+    },
+    {
+      "speaker": "Lokar",
+      "dialogue": "Perhaps we can discuss this matt -- aaaahhh!! (gets blasted)"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Well, Tansut, it looks like you've jumped out of the frying pan and into the --"
+    },
+    {
+      "speaker": "Tansut",
+      "dialogue": "Wait, wait! Don't! No, no! Metallus! Do him first!"
+    },
+    {
+      "speaker": "Metallus",
+      "dialogue": "(drones)"
+    },
+    {
+      "speaker": "Tansut",
+      "dialogue": "M comes before T! M comes before T!"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Well, Metallus, looks like you've jumped out of the frying pan and into the fire! (blasts him) Tansut!"
+    },
+    {
+      "speaker": "Tansut",
+      "dialogue": "(subdued) Okay. Now I'm ready. Oh!"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "(blasts Tansut) Okay, Widow! Looks like you've jumped ou-- no, I've already got you. Well, Brak, looks like you --"
+    },
+    {
+      "speaker": "Brak",
+      "dialogue": "Wait! Wha- wo- we- wait, I mean, is this gonna hurt?"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "A wee mite."
+    },
+    {
+      "speaker": "Brak",
+      "dialogue": "Oh, okay, well, just don't get me in the face."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "(blasts Brak)"
+    },
+    {
+      "speaker": "Brak",
+      "dialogue": "(coughs and yells)"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "How was that?"
+    },
+    {
+      "speaker": "Brak",
+      "dialogue": "That hurt!!! Owww!! (coughs) You're gonna hear from my lawyer!"
+    },
+    {
+      "speaker": "Brak",
+      "dialogue": "I'm hungry, I'm tired! I wanna eat!"
+    }
+  ],
+  "air_date": null
+}

@@ -18,7 +18,9 @@ def clean_filename(filename):
     Returns:
     str: The cleaned filename with invalid characters removed.
     """
-    return filename.translate(str.maketrans("", "", r'<>:"/\\|?*')).strip()
+    # Translate and remove invalid characters from the filename using translate and strip functions
+    cleaned_filename = filename.translate(str.maketrans("", "", r'<>:"/\\|?*')).strip()
+    return cleaned_filename
 
 
 def get_episode_links(base_url):
@@ -32,12 +34,16 @@ def get_episode_links(base_url):
         list: A list of episode links.
     """
     try:
+        # Send a GET request to the base URL
         response = requests.get(base_url)
         response.raise_for_status()
+        # Parse the response content with BeautifulSoup
         soup = BeautifulSoup(response.content, "html.parser")
+        # Extract episode links that start with "?ep"
         ep_links = [link["href"] for link in soup.select('a[href^="?ep"]')]
         return ep_links
     except requests.exceptions.RequestException as e:
+        # Handle any RequestException that occurs
         print(f"Error fetching episode links: {e}")
         return []
 
@@ -79,7 +85,6 @@ def extract_episode_data(base_url, episode_url):
     try:
         response = requests.get(full_url)
         response.raise_for_status()
-        soup = BeautifulSoup(response.text, "html.parser")
 
         soup = BeautifulSoup(response.content, "html.parser")
         title = soup.title.get_text().strip() if soup.title else None
@@ -87,6 +92,9 @@ def extract_episode_data(base_url, episode_url):
             "th", string="Guest Stars:") else None
         synopsis = soup.find("th", string="Synopsis:").find_next_sibling("td").get_text().strip() if soup.find("th",
                                                                                                                string="Synopsis:") else None
+        air_date = soup.find("th", string="Original Air Date:").find_next_sibling("td").get_text().strip() if soup.find(
+            "th",
+            string="Aired:") else None
         # Extract transcript
         transcript = []
         for p in soup.find_all("p"):
@@ -105,6 +113,7 @@ def extract_episode_data(base_url, episode_url):
         "guest_stars": guest_stars,
         "synopsis": synopsis,
         "transcript": transcript,
+        "air_date": air_date
     }
 
 
@@ -119,12 +128,16 @@ def save_episode_data(data_folder, episode_data):
     Returns:
         None
     """
+
+    episode_number = str(episode_count + 1).zfill(2)  # Use a counter variable
+
     if not episode_data:  # Skip empty data
         return
 
         # Clean up title for filename
     title = episode_data.get("title") or episode_data["url"].replace("?ep=", "episode_")
-    filename = clean_filename(title) + ".json"
+    clean_title = clean_filename(title)
+    filename = f"{episode_number}_{clean_title}.json"
     filepath = os.path.join(data_folder, filename)
 
     if os.path.exists(filepath):
@@ -137,13 +150,18 @@ def save_episode_data(data_folder, episode_data):
 
 def main():
     """
-    A function that fetches episode links, extracts episode data, and saves it.
+    A function that retrieves episode links from a base URL, extracts episode data for each link, and saves the data
+    to a specified folder.
     """
+    global episode_count  # Declare the counter as global
+    episode_count = 0
+
     episode_links = get_episode_links(BASE_URL)
 
     for episode_url in episode_links:
         episode_data = extract_episode_data(BASE_URL, episode_url)
         save_episode_data(DATA_FOLDER, episode_data)
+        episode_count += 1
 
 
 if __name__ == "__main__":

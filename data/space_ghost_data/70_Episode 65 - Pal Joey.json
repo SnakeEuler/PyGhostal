@@ -1,0 +1,809 @@
+{
+  "title": "Episode 65 - \"Pal Joey\"",
+  "url": "?ep=65&fmt=0",
+  "guest_stars": null,
+  "synopsis": null,
+  "transcript": [
+    {
+      "speaker": "Choose a format",
+      "dialogue": "Regular Table Indented Condensed"
+    },
+    {
+      "speaker": "Joey",
+      "dialogue": "(clears throat) Greetings, citizen, and welcome to my show."
+    },
+    {
+      "speaker": "Michael Moore",
+      "dialogue": "Well, thanks for having me here, Space Ghost."
+    },
+    {
+      "speaker": "Joey",
+      "dialogue": "Please, identify yourself to the universe."
+    },
+    {
+      "speaker": "Michael Moore",
+      "dialogue": "My name is Michael Moore, and, um, I'm, I'm really nobody."
+    },
+    {
+      "speaker": "Joey",
+      "dialogue": "(LAUGHS) That can't be true, I wouldn't have \"nobody\" on my show!"
+    },
+    {
+      "speaker": "Michael Moore",
+      "dialogue": "Hey, can we, can we stop for a second?"
+    },
+    {
+      "speaker": "Joey",
+      "dialogue": "Of course."
+    },
+    {
+      "speaker": "Michael Moore",
+      "dialogue": "Okay. You're not actually Space Ghost, are you?"
+    },
+    {
+      "speaker": "Joey",
+      "dialogue": "(beat) (inhales through teeth)"
+    },
+    {
+      "speaker": "Michael Moore",
+      "dialogue": "I wasn't prepared for, I thought it was actually going to be the character."
+    },
+    {
+      "speaker": "Joey",
+      "dialogue": "(hands over his face) Yes, sir."
+    },
+    {
+      "speaker": "Michael Moore",
+      "dialogue": "You're like a really bad reader that's reading the script. (laughs)"
+    },
+    {
+      "speaker": "Joey",
+      "dialogue": "Well, actually... I'm an intern, and -"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "(enters) Former intern! I thought I told -"
+    },
+    {
+      "speaker": "Joey",
+      "dialogue": "(scrambles off screen)"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "You better run, Joey!"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "(invisos to set) Moltar?"
+    },
+    {
+      "speaker": "Moltar",
+      "dialogue": "(reading a book) Eh, I wasn't ready."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Eh, I'll do it again."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Time?"
+    },
+    {
+      "speaker": "Moltar",
+      "dialogue": "4.2."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Ehh! (invisos out, then invisos to desk) Time."
+    },
+    {
+      "speaker": "Moltar",
+      "dialogue": "Um, 3.9."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Again! (invisos out, then back in, out of breath) Time."
+    },
+    {
+      "speaker": "Moltar",
+      "dialogue": "Oooh. 5.8."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Oh, one, one more time, once more."
+    },
+    {
+      "speaker": "Moltar",
+      "dialogue": "The guest is waiting,"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Let him wait! I need to get that time down to 3.5 by six o'clock Sunday or I'm a dead man!"
+    },
+    {
+      "speaker": "Moltar",
+      "dialogue": "Oh, did I say 5.8? I meant... 2.3."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Yes! I'm saved!"
+    },
+    {
+      "speaker": "Joey",
+      "dialogue": "(off stage, clapping) Nice going, sir. Congratulations!"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Moltar, didn't I order you to revoke Joey's security clearance?"
+    },
+    {
+      "speaker": "Moltar",
+      "dialogue": "Get off my back, I'm not your slave."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Yes you are."
+    },
+    {
+      "speaker": "Moltar",
+      "dialogue": "I am? Uh, well, what was I s'posed to do?"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Never mind, it's too late. The one they call Joey walks among us."
+    },
+    {
+      "speaker": "Moltar",
+      "dialogue": "He just wants a job."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "That's just what he wants you to think."
+    },
+    {
+      "speaker": "Moltar",
+      "dialogue": "Well, it's workin'. (laughs)"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Moltar, send in my first guest."
+    },
+    {
+      "speaker": "Moltar",
+      "dialogue": "(groans, throws lever. Monitor lowers with Michael Moore)"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Hi, Mike. Eh, sorry about all the trouble before. That punk was supposed to be banned from the premises."
+    },
+    {
+      "speaker": "Michael Moore",
+      "dialogue": "No no no, it's okay, I'm, you're fine. It just threw me, that's all."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "If you just... want to go back to bed, I'll understand."
+    },
+    {
+      "speaker": "Michael Moore",
+      "dialogue": "That's okay, that's okay. We can start again."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "From the top?"
+    },
+    {
+      "speaker": "Michael Moore",
+      "dialogue": "Yes."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Stop tape. (beat)"
+    },
+    {
+      "speaker": "Michael Moore",
+      "dialogue": "Uh, Space Ghost, uh, (laughs) I think you might just have something, uh..."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "And, roll tape. Ladies and gentlemen, please welcome Michael Moore!"
+    },
+    {
+      "speaker": "Michael Moore",
+      "dialogue": "Uh, thanks for having me here, Space Ghost, it's, uh, it's really great."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "So Mike, have you ever actually watched my show?"
+    },
+    {
+      "speaker": "Michael Moore",
+      "dialogue": "Yeah, yeah."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Really?"
+    },
+    {
+      "speaker": "Michael Moore",
+      "dialogue": "All the time, every week, in fact."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "You're kidding!"
+    },
+    {
+      "speaker": "Michael Moore",
+      "dialogue": "Of course I'm kidding. (laughs) I've never seen this show."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "What part do you like best?"
+    },
+    {
+      "speaker": "Michael Moore",
+      "dialogue": "No no, you're not listening, Space Ghost, I've never seen this show."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Do you prefer the comedy, or the interviews? Or both!"
+    },
+    {
+      "speaker": "Michael Moore",
+      "dialogue": "No, no, Space Ghost, hello! Hello!"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "I've seen all your stuff too."
+    },
+    {
+      "speaker": "Michael Moore",
+      "dialogue": "Okay, give me an example."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Give you an example."
+    },
+    {
+      "speaker": "Michael Moore",
+      "dialogue": "Yeah."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Okay. (beat) Now?"
+    },
+    {
+      "speaker": "Michael Moore",
+      "dialogue": "Yes, Space Ghost."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Do I have to?"
+    },
+    {
+      "speaker": "Michael Moore",
+      "dialogue": "(points at Space Ghost)"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Alright, uh, I remember you were there..."
+    },
+    {
+      "speaker": "Michael Moore",
+      "dialogue": "Mm hm."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "And you were talking to the man..."
+    },
+    {
+      "speaker": "Michael Moore",
+      "dialogue": "Uh huh."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "The man, what was it, what... Rambo."
+    },
+    {
+      "speaker": "Michael Moore",
+      "dialogue": "No, no."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "And, there were these things..."
+    },
+    {
+      "speaker": "Michael Moore",
+      "dialogue": "Things, uh, you haven't seen any of my stuff, Space Ghost."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Seen all of it."
+    },
+    {
+      "speaker": "Michael Moore",
+      "dialogue": "Oh, oh, that, yeah, you know, out here, like in the real world, you know, like where we have only eight cable stations..."
+    },
+    {
+      "speaker": "Joey",
+      "dialogue": "(whispers) Excuse me. Zorak, sir."
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "(grunts)"
+    },
+    {
+      "speaker": "Joey",
+      "dialogue": "(whispers) Down here. Did you get a chance to read those scripts that I sent you?"
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "No! Go away."
+    },
+    {
+      "speaker": "Joey",
+      "dialogue": "(whispers) I'll just leave my r\u00e9sum\u00e9 here for you."
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "Get outta here!"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "(notices) Joey!! (fires his power bands, Joey scurries out of the way, Zorak takes the blast instead)"
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "Aaaa!! (coughs)"
+    },
+    {
+      "speaker": "Michael Moore",
+      "dialogue": "Zorak, how ya doin' over there?"
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "Hey, I'm bleeding."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "He's fine, Mike."
+    },
+    {
+      "speaker": "Michael Moore",
+      "dialogue": "Moltar is, uh, over there, hey, how ya doin', Moltar?"
+    },
+    {
+      "speaker": "Moltar",
+      "dialogue": "I'm being exploited."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "He's fine too, Mike. Now, tell me more about Texas."
+    },
+    {
+      "speaker": "Moltar",
+      "dialogue": "Space Ghost is a monster. You should really blow the cover off this rathole."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Moltar!"
+    },
+    {
+      "speaker": "Moltar",
+      "dialogue": "Help me!"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Moltar, Michael doesn't want to hear about your silly personal problems."
+    },
+    {
+      "speaker": "Michael Moore",
+      "dialogue": "(laughs)"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "He's much more interested in doing one of his irreverent docu-comedies about me. Right, Mike?"
+    },
+    {
+      "speaker": "Michael Moore",
+      "dialogue": "Now, what am I supposed to do? Am I supposed to, follow you around, or, find out who your corporate owners are?"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Sure, follow me around. What do I care?"
+    },
+    {
+      "speaker": "Michael Moore",
+      "dialogue": "So who are your corporate owners, Space Ghost?"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Well, it's complicated, but (taps cards) basically, I belong to God."
+    },
+    {
+      "speaker": "Michael Moore",
+      "dialogue": "Ohhhh."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "That's right, Mike, God owns me. He speaks to me through his subsidiary, Time-Warner."
+    },
+    {
+      "speaker": "Michael Moore",
+      "dialogue": "Yes, you know, they own Roger and Me."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Uh, Roger and I, Mike."
+    },
+    {
+      "speaker": "Michael Moore",
+      "dialogue": "Yes, so we're sort of like corporate brethren here."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Roger's your brother."
+    },
+    {
+      "speaker": "Michael Moore",
+      "dialogue": "(interlocks hands, raises eyebrows)"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Ohhhh, I get it."
+    },
+    {
+      "speaker": "Michael Moore",
+      "dialogue": "Let's say \"hi\" to all our friends at Time-Warner. (waves) (laughs)"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "(waves) Hello, friends."
+    },
+    {
+      "speaker": "Joey",
+      "dialogue": "\"I love beans?\" You know, that song means so much to me."
+    },
+    {
+      "speaker": "Brak",
+      "dialogue": "Well, you know, I wrote that song while I was eatin' some beans."
+    },
+    {
+      "speaker": "Joey",
+      "dialogue": "That's awesome."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "So Michael, what do you think of the Ghost Planet?"
+    },
+    {
+      "speaker": "Michael Moore",
+      "dialogue": "It's, it's, it's, uh... I've, I've been in worse places."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Name one."
+    },
+    {
+      "speaker": "Michael Moore",
+      "dialogue": "(laughs) Well, um, it's, it's a kid's show, isn't it?"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Actually, no. My audience is comprised largely of retired naval officers. Ahoy, gentlemen. I salute you. Mike, have you ever been to the Caspian Sea?"
+    },
+    {
+      "speaker": "Michael Moore",
+      "dialogue": "No."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Some people think it's a lake. But they're so wrong."
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "It's a lake!"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "It's a sea!"
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "It's a lake!"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "It's a sea!"
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "What, ya been there?"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "(beat) (glares at Zorak)"
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "(glares at Space Ghost)"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "It's a sea, Mike."
+    },
+    {
+      "speaker": "Michael Moore",
+      "dialogue": "Uh huh. And, and where are you actually put together, Space Ghost, like, who draws you?"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Oh... a bunch of guys."
+    },
+    {
+      "speaker": "Michael Moore",
+      "dialogue": "A bunch of guys, where at?"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Uh, some kids do it, somewhere. I'm, I'm not sure."
+    },
+    {
+      "speaker": "Michael Moore",
+      "dialogue": "Yeah, it probably, is this, is this animation done in the United States?"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Yeah, I think so. Is that part of Korea?"
+    },
+    {
+      "speaker": "Michael Moore",
+      "dialogue": "No."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "They don't make much money, I know that. (laughs cruely)"
+    },
+    {
+      "speaker": "Joey",
+      "dialogue": "Hey, Moltar?"
+    },
+    {
+      "speaker": "Moltar",
+      "dialogue": "What are you doin' here?"
+    },
+    {
+      "speaker": "Joey",
+      "dialogue": "Would you mind if I just stood over here and watch you work?"
+    },
+    {
+      "speaker": "Moltar",
+      "dialogue": "(sighs) Alright, but stay out of my way. I can't be distracted."
+    },
+    {
+      "speaker": "Michael Moore",
+      "dialogue": "What's the budget on this show, anyways?"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Not much, I'll tell you that. Want to know why? I'll let you in on a little secret, Mike. I don't pay anybody! My staff here - they work for free! (laughs)"
+    },
+    {
+      "speaker": "Michael Moore",
+      "dialogue": "Oh, really?"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Oh, yeah. My overhead from this show is virtually nothing, except for an occasional bowl of water and bucket of slop..."
+    },
+    {
+      "speaker": "Moltar",
+      "dialogue": "(to Joey) Listen, I'm gonna take a nap. You stay here, and if anything goes wrong, run and get me."
+    },
+    {
+      "speaker": "Joey",
+      "dialogue": "Oh, you bet! You can count on me, sir. You just -"
+    },
+    {
+      "speaker": "Moltar",
+      "dialogue": "Don't touch anything! (walks out of control room)"
+    },
+    {
+      "speaker": "Joey",
+      "dialogue": "Thank you! (waves)"
+    },
+    {
+      "speaker": "Michael Moore",
+      "dialogue": "Well, yeah, I guess I'd like, I'd like to find out, uh, who put you up to this, who controls you. And basically, uh, you know, how you're treating your, uh, employees here."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Oh, they're enslaved."
+    },
+    {
+      "speaker": "Michael Moore",
+      "dialogue": "Mm, okay."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Oh, it's not the kind you're thinking of. This is the good kind."
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "Lies! All of it!"
+    },
+    {
+      "speaker": "Michael Moore",
+      "dialogue": "The bandleader over here isn't so sure about that."
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "Space Ghost!"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "What, Zorak?"
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "I need a five minute break."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "No breaks, get back to work!"
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "Then I'll need a spit trough."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Sorry, we're over-budget as it is. My six week \"Humor on the Rhine\" junket nearly busted us."
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "And how about a piano bench? I've been squattin' for four years!"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Sit down on your own time. I don't pay you to sit."
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "You don't pay me at all!"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "You'll get what I give you and like it! (to Mike) You see, Mike, here in space we're all equals. Except for Moltar and Zorak. Isn't that great? Want him to do anything for you, Mike? Shall he dance for your pleasure?"
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "(Zorak stares back in surprise)"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "(blasts at Zorak's feet) Dance, mantis! Dance for Michael's pleasure!"
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "Ow! Hey, my foot! ow!"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "(while blasting) Hey, Mike, aren't you impressed by my power over my lowly subordinates?"
+    },
+    {
+      "speaker": "Michael Moore",
+      "dialogue": "Oh, come on. They're helping you do this show here."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "(finished blasting Zorak) Pffft. They're not worth the paper I line their filthy cages with."
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "You make me sleep in my own debris!"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Excuse me. (casually walks over to the bandstand, and punches Zorak in the face, then walks back, humming to himself)"
+    },
+    {
+      "speaker": "Zorak",
+      "dialogue": "Pfeh!"
+    },
+    {
+      "speaker": "Michael Moore",
+      "dialogue": "You are down on him today!"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "I'm down on him every day, Mike. He's morally bankrupt."
+    },
+    {
+      "speaker": "Michael Moore",
+      "dialogue": "He's, he's the glue that holds this show together here."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Oh, please!"
+    },
+    {
+      "speaker": "Michael Moore",
+      "dialogue": "The man, he gives and gives and gives for you. On this show."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "It's best not to make nice with Zorak. He'll eat you faster than a Swiss blacksmith at a corkboard convention."
+    },
+    {
+      "speaker": "Michael Moore",
+      "dialogue": "I prob-, I probably look like a month-long meal to him, don't I? (laughs) Stay away. (laughs)"
+    },
+    {
+      "speaker": "Michael Moore",
+      "dialogue": "Uh oh. We just lost our camera. (Michael's image on monitor starts zooming in and out, in and out of focus)"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "What's happening there? Moltar! Moltar!"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "(invisos in) Joey!"
+    },
+    {
+      "speaker": "Joey",
+      "dialogue": "I'm sorry, sir, it'll never happen again."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "You got that straight, son. (blasts Joey, who crumples to the ground) Take that!"
+    },
+    {
+      "speaker": "Moltar",
+      "dialogue": "(returns) Whoa! What's goin' on in here?"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Joey messed up my show. So I messed up his face."
+    },
+    {
+      "speaker": "Moltar",
+      "dialogue": "You didn't use your power bands on him, did you?"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Yeah. (laughs) Isn't that right, Joey?"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Joey?"
+    },
+    {
+      "speaker": "Moltar",
+      "dialogue": "He doesn't look so good."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "I don't know, he looks okay to me. (nudges Joey's head with his foot) Big cry-baby. Get rid of him."
+    },
+    {
+      "speaker": "Moltar",
+      "dialogue": "You get rid of him."
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "(sighs in disgust)"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "This could cost me my career. (beat) Way to go, Joey!"
+    },
+    {
+      "speaker": "Space Ghost",
+      "dialogue": "Great show, everybody. See you next week. (laughs) I hate that guy."
+    }
+  ],
+  "air_date": null
+}
