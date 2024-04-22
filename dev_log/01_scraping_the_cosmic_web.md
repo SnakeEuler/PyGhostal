@@ -31,8 +31,6 @@
   ```
 	- This code used the BeautifulSoup selector `'a[href^="?ep"]'` to precisely target all `<a>` tags where the `href` attribute *starts with* '?ep=', efficiently isolating the correct episode links.
 - ### Extracting Episode Data
-- I wasn't entirely sure what data I would or could end up using towards the chatbot and wanted to keep things somewhere in the middle of granular and general. Getting the basic information detailed about each episode seemed like the reasonable and straightforward way to go.
--
   > I wasn't entirely sure what data I would or could end up using towards the chatbot and wanted to keep things somewhere in the middle of granular and general. Getting the basic information detailed about each episode seemed like the reasonable and straightforward way to go. I **used Requests to fetch web pages and BeautifulSoup to parse the HTML**.  
 -
   > After fetching the episode page content, I targeted a specific `<table border="0">` section to extract the relevant data. To extract titles, guest stars, and synopses, I first located their corresponding table headers (`<th>`) and then retrieved the text content of the adjacent table cells (`<td>`).  
