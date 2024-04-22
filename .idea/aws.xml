@@ -8,4 +8,13 @@
       </list>
     </option>
   </component>
+  <component name="connectionManager">
+    <option name="activeConnectionId" value="sso;us-east-1;https://view.awsapps.com/start" />
+  </component>
+  <component name="explorerToolWindow">
+    <option name="selectedTab" value="Amazon Q + CodeWhisperer" />
+  </component>
+  <component name="lambda">
+    <option name="showAllHandlerGutterIcons" value="true" />
+  </component>
 </project>

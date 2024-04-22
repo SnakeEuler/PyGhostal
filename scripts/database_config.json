@@ -1,0 +1,8 @@
+{
+  "database_config": {
+    "user": "postgres",
+    "password": "aaD",
+    "host": "localhost",
+    "database": "ghostbase"
+  }
+}

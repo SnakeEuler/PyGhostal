@@ -2,3 +2,4 @@ requests~=2.31.0
 SQLAlchemy~=2.0.29
 spacy~=3.7.4
 beautifulsoup4~=4.12.3
+transformers~=4.40.1

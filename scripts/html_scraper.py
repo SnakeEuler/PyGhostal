@@ -92,9 +92,7 @@ def extract_episode_data(base_url, episode_url):
             "th", string="Guest Stars:") else None
         synopsis = soup.find("th", string="Synopsis:").find_next_sibling("td").get_text().strip() if soup.find("th",
                                                                                                                string="Synopsis:") else None
-        air_date = soup.find("th", string="Original Air Date:").find_next_sibling("td").get_text().strip() if soup.find(
-            "th",
-            string="Aired:") else None
+
         # Extract transcript
         transcript = []
         for p in soup.find_all("p"):
@@ -113,7 +111,7 @@ def extract_episode_data(base_url, episode_url):
         "guest_stars": guest_stars,
         "synopsis": synopsis,
         "transcript": transcript,
-        "air_date": air_date
+
     }
 
 

@@ -8,6 +8,7 @@ CREATE TABLE episodes
     url         TEXT,
     guest_stars TEXT,
     synopsis    TEXT
+
 );
 
 -- dialogue table
@@ -17,7 +18,7 @@ CREATE TABLE dialogue
     episode_id  INTEGER REFERENCES episodes (episode_id) ON DELETE CASCADE,
     speaker     TEXT,
     text        TEXT,
-    actions     JSONB
+    actions     TEXT
 );
 
 -- tokens table
@@ -25,7 +26,17 @@ CREATE TABLE tokens
 (
     token_id    SERIAL PRIMARY KEY,
     dialogue_id INTEGER REFERENCES dialogue (dialogue_id) ON DELETE CASCADE,
-    token       TEXT
+    token       TEXT,
+    token_type  TEXT
+);
+
+-- actions table
+CREATE TABLE actions
+(
+    action_id          SERIAL PRIMARY KEY,
+    dialogue_id        INTEGER REFERENCES dialogue (dialogue_id) ON DELETE CASCADE,
+    action_type        TEXT,
+    action_description TEXT
 );
 
 -- Optional Text Search Index
